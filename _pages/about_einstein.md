@@ -1,1 +1,0 @@
-Hi! I'm Zoe, a PhD candidate in the [Putnam Lab](https://putnamlab.com/). This website is in progress, but check out my **[Open Lab Notebook](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/)** — for open protocols and notebook posts.
