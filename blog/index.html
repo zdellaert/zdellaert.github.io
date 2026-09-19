@@ -31,7 +31,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "See here for detailed descriptions of my different ongoing projects!",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -50,7 +50,17 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{
+        },{id: "projects-laser-capture-microdissection-rna-seq-in-pocillopora-acuta",
+          title: 'Laser Capture Microdissection RNA-seq in Pocillopora acuta',
+          description: "Chapter two of my dissertation, now published in PLOS One (2026).",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/LaserCoral/";
+            },},{id: "projects-high-resolution-multi-species-coral-heat-stress-time-series",
+          title: 'High Resolution Multi-Species Coral Heat Stress Time Series',
+          description: "Chapter three of my dissertation",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/TimeSeries/";
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
