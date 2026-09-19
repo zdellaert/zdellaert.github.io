@@ -11,7 +11,7 @@ github: https://github.com/zdellaert/LaserCoral
 
 We used Laser Capture Microdissection to isolate distinct tissue regions of the reef-building coral *Pocillopora acuta*, then performed RNA-seq to identify location-specific gene expression.
 
-## Publication
+### Publication
 
 Dellaert, Z. and Putnam, H. M. (2026). Spatially resolved gene expression analysis illuminates location-specific functions in the reef-building coral *Pocillopora acuta*. *PLOS One* 21, e0358454. [Open Access!](https://dx.plos.org/10.1371/journal.pone.0358454)
 
