@@ -2,7 +2,7 @@
 layout: page
 title: High Resolution Multi-Species Coral Heat Stress Time Series
 description: Chapter three of my dissertation
-img: assets/img/projects/timeseries.png
+img: assets/img/projects/timeseries.jpg
 importance: 1
 category: research
 related_publications: false
@@ -20,4 +20,4 @@ Short-term heat stress physiology & high-resolution gene expression time series 
 
 [→ Explore the code + data](https://github.com/zdellaert/TimeSeries)
 
-![timeseries.png](assets/img/projects/timeseries.png)
+<img src="../assets/img/projects/timeseries.jpg" alt="timeseries" style="max-width: 500px; width: 100%;">
