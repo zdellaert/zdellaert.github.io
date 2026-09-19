@@ -1,4 +1,4 @@
-Personal/academic profile webpage made with al-folio theme.
+Personal/academic profile webpage made with [al-folio theme](https://github.com/alshedivat/al-folio).
 
 ### License
 

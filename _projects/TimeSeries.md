@@ -18,6 +18,4 @@ Short-term heat stress physiology & high-resolution gene expression time series 
 - Seven timepoints
 - [Sampling](https://github.com/zdellaert/TimeSeries/blob/main/protocols/Sampling.md) and [extraction](https://github.com/zdellaert/TimeSeries/blob/main/protocols/Bulk_DNA_RNA_Extractions_Zymo_Quick_Miniprep.md) protocols
 
-[→ Explore the code + data](https://github.com/zdellaert/TimeSeries)
-
-<img src="../assets/img/projects/timeseries.jpg" alt="timeseries" style="max-width: 500px; width: 100%;">
+<img src="https://raw.githubusercontent.com/zdellaert/zdellaert.github.io/5e186ab92318dd806e6f37b26dac385e2eab3516/assets/img/projects/timeseries.jpg" alt="timeseries" style="width: 100%;">
